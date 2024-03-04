@@ -8,7 +8,9 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            background-color: #f0f0f0;
+            background-image: url('https://example.com/path/to/your/image.jpg'); /* Replace with your image URL or path */
+            background-size: cover; /* To cover the whole background */
+            background-position: center; /* To center the image */
         }
         header {
             background-color: #333;
